@@ -1,2 +1,3 @@
 var i=0;
-alert(i+1);
+var j=0;
+alert(i+j);
